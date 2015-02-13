@@ -3,6 +3,7 @@
   "description": "dasnboard",
   "version": "0.0.1",
   "dependencies": {
+    "mocha" : "*"
   },
   "engines": {
     "node": "0.10.x"
