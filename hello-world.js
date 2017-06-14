@@ -22,4 +22,5 @@ http.createServer(function(req, res){
 	}
 }).listen(3000);
 
+// This is just addition 
 console.log('Server started..');
